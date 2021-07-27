@@ -1,2 +1,6 @@
 wp-config.php
 .htaccess
+
+
+# Environment
+.env
