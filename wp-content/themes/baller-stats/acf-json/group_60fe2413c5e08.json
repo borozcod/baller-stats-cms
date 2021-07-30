@@ -1,7 +1,27 @@
 {
     "key": "group_60fe2413c5e08",
     "title": "Stats",
-    "fields": [],
+    "fields": [
+        {
+            "key": "field_61048d0d7be3a",
+            "label": "CSV File",
+            "name": "csv_file",
+            "type": "file",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array",
+            "library": "all",
+            "min_size": "",
+            "max_size": "",
+            "mime_types": ""
+        }
+    ],
     "location": [
         [
             {
@@ -19,5 +39,5 @@
     "hide_on_screen": "",
     "active": true,
     "description": "",
-    "modified": 1627268218
+    "modified": 1627688257
 }
