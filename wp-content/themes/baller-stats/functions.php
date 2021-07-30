@@ -43,6 +43,6 @@
 			'hierarchical'       => true,
 			'menu_position'      => null,
 			'menu_icon'          => 'dashicons-media-spreadsheet',
-			'supports'           => array('title', 'revisions', 'editor'),
+			'supports'           => array('title', 'revisions'),
 		)
 	);
